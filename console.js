@@ -4,3 +4,4 @@ console.log("hello world"); //2nd times!
 function main(){
   return null;
 }
+//consoler.log(main);
